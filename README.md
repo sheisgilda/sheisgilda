@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hola, soy Gilda 👋
 
-<!--
-**sheisgilda/sheisgilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mí
+Estoy aprendiendo desarrollo web
 
-Here are some ideas to get you started:
+## Tecnologías y Herramientas
+- JavaScript
+- Git
+- CSS/HTML
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contacto
+- Correo: gilda.management@gmail.com
+
+¡Gracias por visitar mi perfil de GitHub!
